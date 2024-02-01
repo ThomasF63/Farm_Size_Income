@@ -3,7 +3,8 @@
 ## Overview
 
 The Farm Size vs Income Simulator is a Streamlit-based web application designed to simulate the income for smallholder cocoa farms. It allows users to visualize how changes in farming practices, market conditions, and farm inputs can influence the income of these farms. The app provides a user-friendly interface for adjusting input parameters and viewing the impacts on farm income through interactive visualizations.
-Features
+
+## Features
 
     * Interactive Sliders: Adjust parameters such as farm size, yield per hectare, material costs per hectare, and labor time per hectare.
     * Input Boxes: Input constants like Cocoa Market Price, Maximum Labor Time, and Labor Cost.
